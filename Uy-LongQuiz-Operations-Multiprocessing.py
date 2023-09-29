@@ -42,7 +42,6 @@ if __name__ == '__main__':
     operations = ['add', 'subtract', 'multiply', 'divide']
 
     for i in operations:
-
         processes = [Process(target=main, args=[numA, numB, i])]
 
         for process in processes:
