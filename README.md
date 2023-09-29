@@ -1,0 +1,2 @@
+Function that first asks for 2 numbers and performs the 4 mathematical operations such as addition, subtraction, multiplicaiton, and division.
+The output will be display using 4 different processes. Displays the PPID & PID of each process and the number of cores in your compuster.
